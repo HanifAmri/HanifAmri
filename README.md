@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I'm Hanif Amri
+
+
+# About Me
+
+- 🌱 Information Technology student at Amikom University
+
+
 
 <!--
 **HanifAmri/HanifAmri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
